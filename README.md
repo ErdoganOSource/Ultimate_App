@@ -23,9 +23,6 @@ Ultimate-App is your go-to platform for discovering the coolest and most useful 
 - **Tools** 🔧  
   Useful utilities to streamline daily tasks, from file management to security and beyond.
 
-## Getting Started
-
-To get started with **Ultimate-App**, you can simply clone this repository and explore the list of apps directly in the **`apps-list.md`** file.
 
 ### Clone the Repository
 
